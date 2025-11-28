@@ -9,7 +9,7 @@ ALTER TABLE LEAVE_REQUEST
     MODIFY leave_request_id BIGINT NOT NULL AUTO_INCREMENT;
 
 
-tomcat9
+tomcat9 (포트 9090)
 webapps/db_project 폴더에 jsp 복사
 
 MySQL 계정: devuser
