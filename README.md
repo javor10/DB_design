@@ -2,9 +2,13 @@
 데이터베이스 설계 팀 프로젝트 
 
 MySQL 8.0
+
 CREATE DATABASW database_design;
+
 DDL 실행
+
 DML 실행
+
 ALTER TABLE LEAVE_REQUEST
     MODIFY leave_request_id BIGINT NOT NULL AUTO_INCREMENT;
 
